@@ -1,2 +1,2 @@
-# DNoom
+# DN DOOM
 DOOM-like game
